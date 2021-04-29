@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://yishengan.github.io/ri/</id>
+    <id>https://yishengan.github.io</id>
     <title>级白博客页</title>
-    <updated>2021-04-29T07:26:09.868Z</updated>
+    <updated>2021-04-29T07:31:41.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://yishengan.github.io/ri/"/>
-    <link rel="self" href="https://yishengan.github.io/ri/atom.xml"/>
+    <link rel="alternate" href="https://yishengan.github.io"/>
+    <link rel="self" href="https://yishengan.github.io/atom.xml"/>
     <subtitle>阿巴阿巴</subtitle>
-    <logo>https://yishengan.github.io/ri/images/avatar.png</logo>
-    <icon>https://yishengan.github.io/ri/favicon.ico</icon>
+    <logo>https://yishengan.github.io/images/avatar.png</logo>
+    <icon>https://yishengan.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 级白博客页</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://yishengan.github.io/ri/post/hello-gridea/</id>
-        <link href="https://yishengan.github.io/ri/post/hello-gridea/">
+        <id>https://yishengan.github.io/post/hello-gridea/</id>
+        <link href="https://yishengan.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
